@@ -1,6 +1,8 @@
 # Nall_Void
 
 Null Void is a 3rd person platformer game that will test your skills and dexterity. It is made using the Unreal Engine 5 game engine, Blueprint scripting system, and C++ programming language. It is a project undertaken by a team of dedicated students in Mymensingh Engineering College as part of the Application Development Lab course.
+To download the source code, please email samrat@softsasi.com. After verification, if we find that you are eligible, you will receive the code.
+
 
 Supervisor of the project
 Md Nagrul Islam
