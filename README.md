@@ -5,7 +5,7 @@ Null Void is a 3rd person platformer game that will test your skills and dexteri
 Supervisor of the project
 Md Nagrul Islam
 Lecturer
-Department of Computer Science & Engine![Uploading image_2.png…]()
+Department of Computer Science & Engine!
 ering
 Mymensingh Engineering College
 
